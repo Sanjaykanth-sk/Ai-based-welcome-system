@@ -5,15 +5,9 @@ cv2 (OpenCV): For image and video capture and processing.
 pyttsx3: For text-to-speech conversion.
 Functionality:
 
-Captures an image from the camera.
-Converts the image to grayscale.
-Uses a pre-trained Haar Cascade classifier to detect faces.
-Draws rectangles around detected faces.
-Uses text-to-speech to indicate the number of faces detected.
-Based on this, here's a suitable README file content for your project:
 
-Face Detection with Audio Feedback
-This project demonstrates a simple face detection application using OpenCV and text-to-speech feedback using pyttsx3.
+Face Detection with Audio output
+This project demonstrates a simple face detection application using OpenCV and text-to-speech output using pyttsx3.
 
 Features
 Captures real-time video from the webcam.
@@ -26,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/face-detection.git
+git clone https://github.com/SanjayKanth-sk/face-detection.git
 cd face-detection
 Install required libraries:
 
